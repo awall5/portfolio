@@ -133,7 +133,7 @@ function App() {
         <h2>Skills</h2>
         <div className="skills-grid">
           <div className="skill-item"><FaPython size={48} color="#306998" /><p>Python</p></div>
-          <div className="skill-item"><FaJava size={48} color="#ea2d2e" /><p>Java</p></div>
+          {/* <div className="skill-item"><FaJava size={48} color="#ea2d2e" /><p>Java</p></div> */}
           <div className="skill-item"><SiCplusplus size={48} color="#00599C" /><p>C++</p></div>
           <div className="skill-item"><SiMysql size={48} color="#00758F" /><p>SQL</p></div>
           <div className="skill-item"><FaReact size={48} color="#61dafb" /><p>React</p></div>
@@ -141,7 +141,7 @@ function App() {
           <div className="skill-item"><SiExpress size={48} color="#000000" /><p>Express</p></div>
           <div className="skill-item"><SiMongodb size={48} color="#47A248" /><p>MongoDB</p></div>
           <div className="skill-item"><FaAws size={48} color="#FF9900" /><p>AWS</p></div>
-          <div className="skill-item"><SiGooglecloud size={48} color="#4285F4" /><p>Google Cloud</p></div>
+          {/* <div className="skill-item"><SiGooglecloud size={48} color="#4285F4" /><p>Google Cloud</p></div> */}
         </div>
       </section>
 
