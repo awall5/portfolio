@@ -123,7 +123,7 @@ function App() {
               and admin controls using MongoDB, Express, React, and Node.js.
               <br />
               <a
-                href="https://github.com/awal-gofood"
+                href="https://github.com/awall5/Gofood-Website"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -139,7 +139,7 @@ function App() {
               using React.
               <br />
               <a
-                href="https://weather-app-awal.netlify.app"
+                href="https://weather-app-by-awal.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -155,7 +155,7 @@ function App() {
               design, built purely using HTML5 and CSS3.
               <br />
               <a
-                href="https://github.com/awal-restaurant"
+                href="https://github.com/awall5/Lovely-Restaurant-"
                 target="_blank"
                 rel="noopener noreferrer"
               >
