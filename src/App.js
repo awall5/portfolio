@@ -10,13 +10,7 @@ import { FaPython, FaReact, FaNodeJs, FaAws } from "react-icons/fa";
 
 // import { SiGooglecloud } from 'react-icons/si';
 
-
-import {
-  SiCplusplus,
-  SiMongodb,
-  SiExpress,
-  SiMysql,
-} from "react-icons/si";
+import { SiCplusplus, SiMongodb, SiExpress, SiMysql } from "react-icons/si";
 
 const NAV_ITEMS = [
   { id: "about", label: "About" },
@@ -85,26 +79,26 @@ function App() {
           <div className="intro-text">
             <h2>Hi, I'm</h2>
             <h1>Awal Manga</h1>
-            <h3 className="highlight">
-              MERN Stack Developer & Cloud Enthusiast
-            </h3>
-            <p className="personal-highlight">
-              I specialize in building robust, scalable solutions using Python,
-              Java, C++, and SQL, with hands-on expertise across AWS, Azure, and
-              Google Cloud.
+            <h3 className="highlight">C++ developer</h3>
+
+            <p>
+              I specialize in building efficient, scalable, and high-performance
+              applications using modern C++, with a strong grasp of
+              object-oriented programming, STL, memory management, and
+              system-level development.
               <br />
-              <br />
-            </p>
-            <p className="personal-highlight">
-              Driven by a problem-solving mindset and a collaborative approach,
-              I deliver end-to-end solutions leveraging both front-end and
-              back-end technologies, cloud infrastructure, and best practices.
+              With a solid foundation in Python, and SQL, and hands-on
+              experience with cloud platforms like AWS, Azure, and Google Cloud,
+              I bring a well-rounded understanding of software engineering to
+              every project.
               <br />
               <br />
               <span className="personal-highlight">
-                Always open to exciting opportunities and collaborations. My
-                passion for technology drives me to continuously learn and grow,
-                ensuring I stay at the forefront of the industry.
+                I'm driven by a deep passion for problem-solving, clean code,
+                and continuous learning. I’m always eager to take on new
+                challenges, collaborate with like-minded professionals, and stay
+                at the forefront of technology through impactful projects and
+                innovation.
               </span>
             </p>
           </div>
