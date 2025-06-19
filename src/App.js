@@ -6,9 +6,8 @@ import projectImage2 from "./assets/weather.png";
 import projectImage3 from "./assets/project-illustration.png";
 import { MdEmail, MdPhone } from "react-icons/md";
 import { FaLinkedin } from "react-icons/fa";
-import { FaPython, FaJava, FaReact, FaNodeJs, FaAws } from "react-icons/fa";
+import { FaPython, FaReact, FaNodeJs, FaAws } from "react-icons/fa";
 
-import { FaJava } from 'react-icons/fa';
 // import { SiGooglecloud } from 'react-icons/si';
 
 
