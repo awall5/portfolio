@@ -15,7 +15,6 @@ import {
   SiCplusplus,
   SiMongodb,
   SiExpress,
-  SiGooglecloud,
   SiMysql,
 } from "react-icons/si";
 
